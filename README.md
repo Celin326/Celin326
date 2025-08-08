@@ -9,6 +9,7 @@
   <img src="https://i.pinimg.com/736x/aa/f3/0d/aaf30d5685b74740072813c85710658b.jpg" alt="Banner" width="1000%"  height="300" />
 </p>
 
+---
 <h3 align="center">
   🎓 BSIS Student | 💼 I'm an aspiring Business Analyst | 🌱 Learning HTML, CSS, PHP, Python & Figma
 </h3>
@@ -19,7 +20,7 @@
 
 ---
   <a href="https://www.artstation.com/artwork/28kGeY" target="_blank">
-    <img align="right" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562" alt="Animated Hacker GIF" width="170">
+    <img align="right" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562" alt="Animated Hacker GIF"   width="35%"  height="150"/>
   </a>
 
 ### 🌟 About Me
@@ -28,8 +29,6 @@
 - 💬 Ask me about: **Life as a BSIS student & coding journey**  
 - 📫 Reach me at: **jocelynbendoy26@gmail.com**  
 - ⚡ Fun fact: **I used to weld metals... now I weld lines of code 🔧💻**
-
-
 ---
 
 ### 🌐 Connect with Me  
