@@ -11,7 +11,7 @@
 
 ---
 <h3 align="center">
-  🎓 BSIS Student | 💼 I'm an aspiring Business Analyst | 🌱 Learning HTML, CSS, PHP, Python & Figma
+  🎓 BSIS Student  | 💼 I'm an aspiring Business Analyst  | 🌱 Learning HTML, CSS, PHP, Python & Figma
 </h3>
 
 <p align="center">
