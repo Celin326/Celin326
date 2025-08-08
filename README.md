@@ -80,11 +80,11 @@
 
 <!-- GitHub Stats -->
  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=celin326&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="500" height="250"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=celin326&show_icons=true&locale=en" alt="GitHub Stats" width="500" height="500" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=celin326&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="400" height="250"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=celin326&show_icons=true&locale=en" alt="GitHub Stats" width="400" height="500" />
 </div>
 
 <!-- GitHub Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=celin326" alt="GitHub Streak" width="1000"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=celin326" alt="GitHub Streak" width="800"/>
 </p>
