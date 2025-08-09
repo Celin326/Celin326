@@ -20,9 +20,9 @@
 
 ---
   <a href="https://www.artstation.com/artwork/28kGeY" target="_blank">
-    <img align="right" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562" alt="Animated Hacker GIF"   width="35%"  height="150"/>
+    <img align="left" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562" alt="Animated Hacker GIF" width="35%"  height="150" />
   </a>
-
+  
 ### 🌟 About Me
   
 - 🌱 Currently learning: **HTML, CSS, PHP, Python, Figma**  
